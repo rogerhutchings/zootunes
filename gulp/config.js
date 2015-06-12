@@ -26,12 +26,6 @@ module.exports = {
         dest: root + '/build'
     },
 
-    js: {
-        src: [root + '/public/_js/jquery.js', root + '/public/_js/*.js'],
-        dest: root + '/public',
-        compiled: root + '/public/app.js'
-    },
-
     remote: {
         server: 'balzan.new.ox.ac.uk',
         path: '/srv/www/htdocs',

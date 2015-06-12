@@ -1,28 +1,18 @@
 {
     "globals": {
-        "title": "Centre for Cosmological Studies",
         "uri": "http://balzan.new.ox.ac.uk",
-        "sections": [
-            {
-                "title": "About",
-                "id": "about",
-                "filename": "_content/_about"
-            },
-            {
-                "title": "Organisation",
-                "id": "organisation",
-                "filename": "_content/_organisation"
-            },
-            {
-                "title": "Applications",
-                "id": "applications",
-                "filename": "_content/_applications"
-            },
-            {
-                "title": "Contact",
-                "id": "contact",
-                "filename": "_content/_contact"
-            }
-        ]
+        "playlists": [{
+            "date": "2015-06-12",
+            "uri": "https://open.spotify.com/user/alexbowyer/playlist/4A8a6B3KG6I0AMt8QeJdZy",
+            "theme": "Songs under 2 minutes"
+        }, {
+            "date": "2015-06-05",
+            "uri": "https://open.spotify.com/user/alexbowyer/playlist/3oNKV2RfSEBb9uixetbmpD",
+            "theme": "Songs over 8 minutes"
+        }, {
+            "date": "2015-05-29",
+            "uri": "https://open.spotify.com/user/mrniaboc/playlist/5LxB2vB7uTo6UmxeLcnX5Q",
+            "theme": "Inaugural Spotifriday!"
+        }]
     }
 }
