@@ -1,7 +1,10 @@
 {
     "globals": {
-        "uri": "http://balzan.new.ox.ac.uk",
         "playlists": [{
+            "date": "2015-06-19",
+            "uri": "https://open.spotify.com/user/alexbowyer/playlist/7MSWSooH3l26BDwKFL96Ei",
+            "theme": "Guess which Zooniverse projects these songs represent"
+        }, {
             "date": "2015-06-12",
             "uri": "https://open.spotify.com/user/alexbowyer/playlist/4A8a6B3KG6I0AMt8QeJdZy",
             "theme": "Songs under 2 minutes"
